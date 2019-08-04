@@ -41,7 +41,7 @@
 
 * [Moderation Tools](discord/moderation-tools.md)
 
-## Steam Group
+## Steam Group <a id="steam"></a>
 
 * [Comments](steam/comments.md)
 

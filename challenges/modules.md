@@ -7,6 +7,7 @@
 | `capture_point` | Capture a Control Point | - |
 | `collect_money` | MvM - Collect Money | - |
 | `complete_mission` | MvM - Complete Missions | - |
+| `complete_quest` | Complete Quests | - |
 | `credit` | Earn Credits | - |
 | `damage` | Deal Damage | - |
 | `damage_tank` | MvM - Damage Tanks | - |
