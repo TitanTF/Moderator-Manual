@@ -145,7 +145,7 @@ Note that **player** stated in the table is referring to the person completing t
 | Description | Parameter List |
 | :--- | :--- |
 | `name;*Sentry Buster` | Sentry Busters |
-| `name;*Giant,name;*Super,name;*Major,name;*Colonel,name:*Titan` | Giant Robots |
+| `name;*Giant,name;*Super,name;*Major,name;*Colonel,name;*Titan` | Giant Robots |
 | `name;*Giant Medic` | Giant Medics |
 | `name;*Super Scout` | Super Scouts |
 | `name;*Extended Buff Soldier` | Extended Buffed Soldiers |
