@@ -45,11 +45,6 @@
 
 * [Comments](steam/comments.md)
 
-## Challenges
-
-* [Modules](challenges/modules.md)
-* [Parameters](challenges/parameters.md)
-
 ## Applications
 
 * [Reviewing Applications](applications/reviewing-applications.md)
