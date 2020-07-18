@@ -1,22 +1,20 @@
 ---
 description: >-
-  This is a moderation manual created for the current titan.tf moderation team,
-  in order to make the moderating experience much better for them.
+  This is a moderation guideline that outlines the proper way of handling issues
+  in a structured, clean, and fair manner.
 ---
 
-# Overview
+# The Directory
 
-## Introduction
+Moderators are to use their powers with great responsibility and consideration when moderating our services.
 
-{% hint style="info" %}
-Features described in this manual are intended \(and will only work\) **for moderators only**.
-
-Other users can refer to this manual as a guideline on how moderators handle punishments, as well as identifying moderators that are abusing their power.
+{% hint style="warning" %}
+The information described in this directory is intended **for moderators only**. For non-moderators, you can refer to this directory as a reference to how our moderators handle punishments and you will be able to identify moderators that are abusing their power. 
 {% endhint %}
 
-You are to use the powers given to you with great responsibility and consideration when moderating our services.
-
 {% hint style="danger" %}
- **We take abuse seriously,** but we do not want to be very nit-picky about everything you do either. When taking any actions, you should be prepared to take responsibility for it.
+ **We take power abuse seriously,** but we do not want to be very nit-picky about everything moderators do either. When taking any actions, be prepared to take responsibility for it.  
+  
+Always follow this manual for information on handling situations. Contact the owner if you have doubts.
 {% endhint %}
 

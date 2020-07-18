@@ -2,7 +2,7 @@
 description: How to manage cheaters in community servers?
 ---
 
-# Cheaters
+# Dealing with Cheaters
 
 ## Permanent Ban
 

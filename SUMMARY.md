@@ -1,13 +1,12 @@
 # Table of contents
 
-* [Overview](README.md)
-* [Expectations](expectations/README.md)
-  * [Rules of Conduct](https://titan.tf/rules)
-* [Warnings](warnings.md)
+* [The Directory](README.md)
+* [Expectations](expectations.md)
+* [Rules of Conduct](https://titan.tf/rules)
 
 ## Commands
 
-* [All Servers](commands/all/README.md)
+* [Global](commands/all/README.md)
   * [Players](commands/all/players.md)
   * [Servers](commands/all/servers.md)
   * [Chat](commands/all/chat.md)
@@ -15,37 +14,28 @@
 
 ## Servers
 
-* [Cheaters](servers/cheaters.md)
+* [Dealing with Cheaters](servers/cheaters.md)
 
 ## Moderation
 
-* [Strikes!](moderation/strikes.md)
-* [Reports - !call](moderation/reports-call.md)
+* [Handing Punishments](moderation/strikes.md)
+* [Managing Call Reports](moderation/reports-call.md)
 
 ## Website
 
 * [Activity Posts](website/activity/README.md)
   * [Post Comments](website/activity/comments.md)
+* [Forum Threads](website/threads/README.md)
+  * [Forum Comments](website/threads/comments.md)
+* [Help Articles](website/help-articles.md)
+* [Tickets](website/tickets.md)
 
-## Forum
+## Socials
 
-* [Threads](forum/threads/README.md)
-  * [Forum Comments](forum/threads/comments.md)
+* [Discord](socials/discord.md)
+* [Steam Group](socials/steam.md)
 
-## Support
+## Others
 
-* [Tickets](support/tickets.md)
-* [Help Articles](support/help-articles.md)
-
-## Discord
-
-* [Moderation Tools](discord/moderation-tools.md)
-
-## Steam Group <a id="steam"></a>
-
-* [Comments](steam/comments.md)
-
-## Applications
-
-* [Reviewing Applications](applications/reviewing-applications.md)
+* [Reviewing Applicants](others/reviewing-applications.md)
 

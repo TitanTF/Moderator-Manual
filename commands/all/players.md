@@ -1,7 +1,7 @@
 # Players
 
 | Command | Description |
-| :---: | :--- |
+| :--- | :--- |
 | !kick &lt;target&gt; &lt;reason&gt; | Kicks a player from the server \(a 30 minutes ban is automatically given\). |
 | !ban &lt;target&gt; &lt;time&gt; &lt;reason&gt; | Bans a player from the server. |
 | !slay &lt;target&gt; | Slays a player. |

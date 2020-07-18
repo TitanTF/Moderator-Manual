@@ -1,6 +1,6 @@
 ---
-description: Commands that can be used on all community servers.
+description: Commands that can be used on all of our community servers.
 ---
 
-# All Servers
+# Global
 
