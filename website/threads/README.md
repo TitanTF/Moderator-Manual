@@ -10,5 +10,5 @@ This feature is not yet made available to moderators.
 
 ### Spam
 
-Anyone posting a large amount of forum threads in a short amount of time, are to be permanently banned on the website.
+Anyone posting a large number of forum threads in a short amount of time is to be permanently banned on the website.
 

@@ -11,6 +11,9 @@
   * [Servers](commands/all/servers.md)
   * [Chat](commands/all/chat.md)
 * [Deathrun](commands/deathrun.md)
+* [Additionals](commands/additionals/README.md)
+  * [RTD](commands/additionals/rtd.md)
+  * [Vehicles](commands/additionals/vehicles.md)
 
 ## Servers
 
@@ -28,7 +31,10 @@
 * [Forum Threads](website/threads/README.md)
   * [Forum Comments](website/threads/comments.md)
 * [Help Articles](website/help-articles.md)
-* [Tickets](website/tickets.md)
+* [Support Tickets](website/support-tickets.md)
+* [Create your own Challanges](website/create-your-own-challanges.md)
+* [New Event](website/new-event.md)
+* [New Discord Announcement](website/new-discord-announcement.md)
 
 ## Socials
 

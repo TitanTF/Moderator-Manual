@@ -4,7 +4,7 @@ description: A step forward to making accepted applicants more reliable.
 
 # Reviewing Applicants
 
-A moderator **SHOULD** give their opinions on newly created applications. A team review on an application makes the final judgement more concrete, as there will be more perspectives on the applicant rather than just one.
+A moderator **SHOULD** give their opinions on newly created applications. A team review on an application makes the final judgment more concrete, as there will be more perspectives on the applicant rather than just one.
 
 New applications can be found in [tickets](https://titan.tf/tickets).
 

@@ -4,64 +4,67 @@ description: List of the available moderation tools to manage the Discord server
 
 # Discord
 
-## Management
+## Managements
 
 {% tabs %}
 {% tab title="Commands" %}
 #### Player Management
 
-1. **?kick** 'user' 'reason'
-2. **?ban** 'user' 'time' 'reason'
-3. **+softban** 'user' 'reason' 
-4. **?mute** 'user' 'time\(m\)' 'reason'
-5. **?deafen** 'user'
-6. **+warning**
-   * **+warning add '**user' 'reason'
-   * **+warning search** 'user'
-   * **+warning void** 'id'  
+1. **!kick** 'user' 'reason'
+2. **!ban** 'user' 'time' 'reason'
+3. **!softban** 'user' 'time' 'reason'
+4. **!tempban** 'user' 'time' 'reason'
 
-     ![](../.gitbook/assets/warning-id-edit.PNG)
+5. **!mute** 'user' 'time' 'reason'
+6. **!hardmute** 'user' 'time' 'reason' 
+7. **!warn** 'user' 'reason'
 
 #### Channel Management
 
-1. **+remove**
-   * **+remove all** 'limit'
-   * **+remove user** 'user' 'limit'
-   * **+remove contains** 'content'
-   * **+remove embeds** 'limit'
-   * **+remove reactions** 'limit' 
-2. **?lock** '\#channel' 'time' 'reason'
+1. **!purge**
+   * **!purge** 'limit'
+   * **!purge user** 'user' 'limit'
+   * **!purge contains** 'limit' ****'content'
+   * **!purge embeds** 'limit'
+   * **!purge links** 'limit'
+   * **!purge emoji** 'limit'
+   * **!purge images** 'limit'
+
+  
+2. **!lockdown** '\#channel' 'time'
 
 #### Revoke Actions
 
-1. **?unban** 'user' 'reason'
-2. **?unmute** 'user'
-3. **?undeafen** 'user'
-4. **?unlock** '\#channel'
+1. **!unban** 'user' 'reason'
+2. **!unmute** 'user'
+3. **!unlockdown** '\#channel'
 {% endtab %}
 
-{% tab title="Info" %}
+{% tab title="Explaination" %}
 #### Player Management
 
-1. **?kick** **-** Kick a user
-2. **?ban** **-** Ban a user
-3. **+softban** **-** Kicks a user and deletes all their recent messages 
-4. **?mute** **-** Mute a member so they cannot type or speak, time limit in minutes
-5. **?deafen** **-** Deafen a member
-6. **+warning**
-   * **+warning add** **-** Adds a new warning
-   * **+warning search** **-** Shows a user's warnings
-   * **+warning void** **-** Voids a warning
+1. **!kick** **-** Kicks a user
+2. **!ban** **-** Ban a user
+3. **!softban** **-** Bans and immediately unbans a member to clear 48 hours of message history.
+4. **!tempban -** Bans a user for the specified duration regardless if they're on the server or not.
+
+5. **!mute** **-** Mute a member so they cannot type or speak, a time limit in minutes
+6. **!hardmute -** Functions similar to mute, but removes all of the specified user's other roles. If the hardmute is temporary the roles will be given back upon it expiring. 
+7. **!warn -** Warns a user
 
 #### Channel Management
 
-1. **+remove**
-   * **+remove all** **-**  Deletes all messages in the limit regardless of what it says and who sent it
-   * **+remove user -**   Deletes messages sent by the given members
-   * **+remove contains -**  Deletes messages that contain a given keyword. _This must be at least 3 letters long_
-   * **+remove embeds** **-**  Deletes messages that contain any embeds or attachments
-   * **+remove reactions** **-**  Removes reactions posted to all messages within the range. 
-2. **?lock** **-**  Lock a channel with optional timer and message 
+1. **!purge**
+   * **!purge -** Purges the last howmany messages.
+   * **!purge user -** Purges messages from the specified user.
+   * **!purge contains -** Purges messages containing the specified substring.
+   * **!purge embeds -** Purges messages with embeds.
+   * **!purge links -** Purges messages that contain links.
+   * **!purge emoji -** Purges messages that contain custom emoji.
+   * **!purge images -** Purges messages with attachments or embeds
+
+  
+2. **!lockdown** **-**  Lockdowns a channel with an optional timer and message 
 {% endtab %}
 {% endtabs %}
 

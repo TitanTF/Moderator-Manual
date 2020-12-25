@@ -6,7 +6,7 @@ description: How to manage activity posts?
 
 ### Spam
 
-Anyone posting a large amount of activity posts in a short amount of time, are to be permanently banned on the website.
+Anyone posting a large number of activity posts in a short amount of time is to be permanently banned on the website.
 
 {% hint style="info" %}
 This feature is not yet made available to moderators.

@@ -1,5 +1,5 @@
 ---
-description: We punish violators depending on how often they repeat offenses
+description: We punish violators depending on how often they repeat offenses.
 ---
 
 # Handing Punishments
@@ -9,7 +9,11 @@ description: We punish violators depending on how often they repeat offenses
 Ban and comm ban records do not stack the offense level.
 
 {% hint style="danger" %}
-Offenders must be warned first before handing out any punishments. You are required to give a reason why a punishment is required.
+Offenders must be warned first before handing out any punishments. You are required to give a reason why punishment is required.
+{% endhint %}
+
+{% hint style="info" %}
+Currently, we do not have a system that tracks how many offensive records a player has. Be sure to check [Source Ban](https://bans.titan.tf/) once you have punished the offender and edit the duration if necessary.
 {% endhint %}
 
 <table>
