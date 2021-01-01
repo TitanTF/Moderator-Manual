@@ -6,7 +6,7 @@ description: The basic expectations of how a moderator should behave.
 
 We do not want tough and strict people who kick or ban players for the smallest things. We want patient, calm, and collective individuals to be part of this team. We are looking for **nice and friendly** people who care about the community and are here to **be part of our community**.
 
-We love people who are not super strict and are more relaxed individuals that interact with the community just like any other player. At the end of the day, a moderator is just another person that is part of our community. They are here to have fun with players and do not have to be constantly stressed about having to deal with offenders.
+We love people who are not super strict and are more relaxed individuals that **interact with the community** just like any other player. At the end of the day, a moderator is just another person that is part of our community. They are here to have fun with players and do not have to be constantly stressed about having to deal with offenders.
 
 {% hint style="danger" %}
 Always follow this manual for information on handling situations. Contact the owner if you have doubts.

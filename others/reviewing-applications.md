@@ -11,7 +11,7 @@ New applications can be found in [tickets](https://titan.tf/tickets).
 ### Guidelines
 
 1. You should judge objectively, not on whether you like the person or not.
-   * Is the applicant able to achieve the task? Will he/she have issues with abuse? 
+   * Is the applicant able to achieve the task? Will he/she have abuse issues? 
 2. You should state any bad experiences you have had with the applicant, with regards to titan.tf only. 
 3. You should state anything you know about the applicant, that was not stated in the application, that might affect the result of the application.
 

@@ -1,8 +1,15 @@
 ---
-description: /forcertd <player> <id> <duration>
+description: Roll the Dice
 ---
 
 # RTD
 
-[https://github.com/Phil25/RTD/wiki/perk-list](https://github.com/Phil25/RTD/wiki/perk-list)
+{% embed url="https://github.com/Phil25/RTD/wiki/perk-list" %}
+
+| Command |  |
+| :--- | :--- |
+| /forcertd &lt;ID&gt; &lt;target&gt; &lt;duration&gt; | Force RTD onto a player |
+| /removertd &lt;target&gt; | Removes RTD on a player |
+
+
 

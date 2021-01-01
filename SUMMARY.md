@@ -21,8 +21,10 @@
 
 ## Moderation
 
-* [Handing Punishments](moderation/strikes.md)
-* [Managing Call Reports](moderation/reports-call.md)
+* [Handling Punishments](moderation/strikes.md)
+* [Managing !call Reports](moderation/reports-call.md)
+* [Handling Support Tickets](moderation/support-tickets.md)
+* [Moderator portal](moderation/moderator-portal.md)
 
 ## Website
 
@@ -31,7 +33,6 @@
 * [Forum Threads](website/threads/README.md)
   * [Forum Comments](website/threads/comments.md)
 * [Help Articles](website/help-articles.md)
-* [Support Tickets](website/support-tickets.md)
 * [Create your own Challanges](website/create-your-own-challanges.md)
 * [New Event](website/new-event.md)
 * [New Discord Announcement](website/new-discord-announcement.md)

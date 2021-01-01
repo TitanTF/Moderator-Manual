@@ -2,13 +2,11 @@
 description: How to manage reports from community server?
 ---
 
-# Managing Call Reports
+# Managing !call Reports
 
 {% hint style="info" %}
 This feature is currently not working.
 {% endhint %}
-
-
 
 {% hint style="info" %}
  Type in**`!claim`** in the in-game chat once you are currently investigating incoming reports. This feature will notify us who is currently investigating the report.
