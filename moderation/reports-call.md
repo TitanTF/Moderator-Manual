@@ -2,7 +2,7 @@
 description: How to manage reports from community server?
 ---
 
-# Managing !call Reports
+# Handling !call Reports
 
 {% hint style="info" %}
 This feature is currently not working.

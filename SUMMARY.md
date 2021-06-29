@@ -22,7 +22,7 @@
 ## Moderation
 
 * [Handling Punishments](moderation/strikes.md)
-* [Managing !call Reports](moderation/reports-call.md)
+* [Handling !call Reports](moderation/reports-call.md)
 * [Handling Support Tickets](moderation/support-tickets.md)
 * [Moderator portal](moderation/moderator-portal.md)
 
@@ -39,7 +39,8 @@
 
 ## Socials
 
-* [Discord](socials/discord.md)
+* [Discord](socials/discord/README.md)
+  * [Broadcast](socials/discord/broadcast.md)
 * [Steam Group](socials/steam.md)
 
 ## Others
