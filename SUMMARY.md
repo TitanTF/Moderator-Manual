@@ -22,6 +22,7 @@
 ## Moderation
 
 * [Punishments](moderation/strikes.md)
+* [Punishments v2](moderation/punishments-v2.md)
 * [!call Reports](moderation/reports-call.md)
 * [Support Tickets](moderation/support-tickets.md)
 * [Moderator portal](moderation/moderator-portal.md)
@@ -40,8 +41,12 @@
 ## Socials
 
 * [Discord](socials/discord/README.md)
+  * [Warning](socials/discord/warning.md)
   * [Broadcast](socials/discord/broadcast.md)
-* [Steam Group](socials/steam.md)
+
+---
+
+* [Steam Group](steam.md)
 
 ## Others
 
