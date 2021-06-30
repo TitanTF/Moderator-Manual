@@ -43,7 +43,6 @@
 * [Discord](socials/discord/README.md)
   * [Warning](socials/discord/warning.md)
   * [Broadcast](socials/discord/broadcast.md)
-  * [Warnings](socials/discord/warnings.md)
 
 ---
 
