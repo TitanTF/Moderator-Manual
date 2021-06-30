@@ -4,10 +4,14 @@ description: We punish violators depending on how often they repeat offenses.
 
 # Punishments v2
 
-| Types of violations | Punishment |
+{% hint style="info" %}
+You **MUST** warn the player before performing a punishment action.
+{% endhint %}
+
+| Types of violations | Punishment overtime |
 | :--- | :--- |
 | **Chat** |  |
-| Spamming |  |
+| Spamming | Kick &gt; 1h Ban &gt; 3h Ban &gt; 6h Ban &gt; ... |
 | Advertising |  |
 |  |  |
 | **Server** |  |
@@ -30,11 +34,15 @@ description: We punish violators depending on how often they repeat offenses.
 | NSFW content |  |
 | Hacking / Cheating | Permanent ban |
 
-Strikes are counted or increased by every time the player has done something that violates the Rule of Conduct
+{% hint style="warning" %}
+Strikes are increased by **one** every time the player has done **anything** that violates the Rule of Conduct. \(Global record\)
+{% endhint %}
 
-| Strikes | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 [🚫](https://emojikeyboard.org/copy/Prohibited_Emoji_%F0%9F%9A%AB) |
+|  | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 | 🔨 [🚫](https://emojikeyboard.org/copy/Prohibited_Emoji_%F0%9F%9A%AB) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Perma |
+| **Strikes** | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| **Additional Duration** | - | - | 1h | 3h | 6h | 12h | 1d | 3d | 7d | Perma |
+| **Type** | - | - | Ban | Ban | Ban | Ban | Ban | Ban | Ban | Ban |
 
 ![](../.gitbook/assets/ban-2.png)
 
