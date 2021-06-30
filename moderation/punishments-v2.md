@@ -8,10 +8,10 @@ description: We punish violators depending on how often they repeat offenses.
 You **MUST** warn the player before performing a punishment action.
 {% endhint %}
 
-| Types of violations | Punishment overtime |
+| Types of violations | Static Punishment |
 | :--- | :--- |
 | **Chat** |  |
-| Spamming | Kick &gt; 1h Ban &gt; 3h Ban &gt; 6h Ban &gt; ... |
+| Spamming | 1h ban |
 | Advertising |  |
 |  |  |
 | **Server** |  |
@@ -20,13 +20,6 @@ You **MUST** warn the player before performing a punishment action.
 | Trolling/ Griefing |  |
 | Impersonate others |  |
 | Stalling the game |  |
-|  |  |
-| **Discord \(not here\)** |  |
-| Spamming |  |
-| Racist slangs |  |
-| Excessive @mentions |  |
-| Excessive bot usage outside \#bot |  |
-| Raids | Permanent ban |
 |  |  |
 | **Global** |  |
 | Alternative accounts | Permanent ban |
