@@ -14,6 +14,9 @@
 * [Additionals](commands/additionals/README.md)
   * [RTD](commands/additionals/rtd.md)
   * [Vehicles](commands/additionals/vehicles.md)
+  * [Buildings](commands/additionals/buildings.md)
+  * [Projectiles](commands/additionals/projectiles.md)
+  * [Rollmines HL2](commands/additionals/rollmines-hl2.md)
 
 ## Servers
 
