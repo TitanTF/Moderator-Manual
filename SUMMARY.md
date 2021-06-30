@@ -37,16 +37,14 @@
 * [Create your own Challanges](website/create-your-own-challanges.md)
 * [New Event](website/new-event.md)
 * [New Discord Announcement](website/new-discord-announcement.md)
+* [Broadcast](website/broadcast.md)
 
 ## Socials
 
 * [Discord](socials/discord/README.md)
+  * [Punishment](socials/discord/punishment.md)
   * [Warning](socials/discord/warning.md)
-  * [Broadcast](socials/discord/broadcast.md)
-
----
-
-* [Steam Group](steam.md)
+* [Steam Group](socials/steam.md)
 
 ## Others
 

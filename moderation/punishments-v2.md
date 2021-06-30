@@ -8,12 +8,26 @@ description: We punish violators depending on how often they repeat offenses.
 | :--- | :--- |
 | **Chat** |  |
 | Spamming |  |
+| Advertising |  |
 |  |  |
+| **Server** |  |
+| Mic spamming + loud & earrape |  |
+| Abusing !call |  |
+| Trolling/ Griefing |  |
+| Impersonate others |  |
+| Stalling the game |  |
 |  |  |
+| **Discord \(not here\)** |  |
+| Spamming |  |
+| Racist slangs |  |
+| Excessive @mentions |  |
+| Excessive bot usage outside \#bot |  |
+| Raids | Permanent ban |
 |  |  |
-|  |  |
-|  |  |
-| **Others** |  |
+| **Global** |  |
+| Alternative accounts | Permanent ban |
+| Scamming | Permanent ban |
+| NSFW content |  |
 | Hacking / Cheating | Permanent ban |
 
 Strikes are counted or increased by every time the player has done something that violates the Rule of Conduct
