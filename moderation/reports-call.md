@@ -2,10 +2,10 @@
 description: How to manage reports from community server?
 ---
 
-# Handling !call Reports
+# !call Reports
 
-{% hint style="info" %}
-This feature is currently not working.
+{% hint style="success" %}
+This feature is **now** working.
 {% endhint %}
 
 {% hint style="info" %}
@@ -17,7 +17,7 @@ After the investigation is over, moderators are required to react ✅ or ❌  th
 ## !call Abusing
 
 Players caught falsely calling the moderators will result in a **warning and will be punished.**  
-Excessively abusing the call will result in a **ban** depending on their Offense Level.
+Excessively abusing the call will result in a **ban** depending on their Strikes!
 
   
 

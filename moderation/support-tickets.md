@@ -2,7 +2,7 @@
 description: How to manage support tickets?
 ---
 
-# Handling Support Tickets
+# Support Tickets
 
 There are several categories with the support tickets. 
 

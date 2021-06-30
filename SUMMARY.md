@@ -21,9 +21,9 @@
 
 ## Moderation
 
-* [Handling Punishments](moderation/strikes.md)
-* [Handling !call Reports](moderation/reports-call.md)
-* [Handling Support Tickets](moderation/support-tickets.md)
+* [Punishments](moderation/strikes.md)
+* [!call Reports](moderation/reports-call.md)
+* [Support Tickets](moderation/support-tickets.md)
 * [Moderator portal](moderation/moderator-portal.md)
 
 ## Website

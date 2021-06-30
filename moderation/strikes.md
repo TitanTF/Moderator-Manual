@@ -2,7 +2,7 @@
 description: We punish violators depending on how often they repeat offenses.
 ---
 
-# Handling Punishments
+# Punishments
 
 ### **All punishments must follow according to the number of repeated offenses on record.**
 
